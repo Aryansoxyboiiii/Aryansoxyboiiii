@@ -1,3 +1,21 @@
+# 💫 Hi 👋, I'm Aryan Puri
+**An AI Enthusiast || IIoT Explorer ||🌍 India 
+|| 🧠 Obsessed with smart systems**
+
+Email Me 👉 ✉️ **aryanpuri0711@gmail.com** For Collaboration/Project or Anything Else (including cat talks 😼) 
+
+- 🔭 **I’m currently working on:** Neural Embedding Clusters: A Hybrid Model for Emotion-Based Sentence Classification
+- 👯 **I’m looking to collaborate on:**🔥 
+AI & ML Projects
+🚀 New Model and Piplines
+📈 Smart systems in HealthTech, FinTech, EdTech
+- 💬 **Ask me about:** Why the best ideas come at 2AM, and yes I take DMs then
+- 📫 **How to reach me:** **[LinkedIn]**(https://www.linkedin.com/in/aryan-puri01/) 
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I Love cats (i mean it)
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-puri01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanpuri0711@gmail.com) 
@@ -15,3 +33,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Aryansoxyboiiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

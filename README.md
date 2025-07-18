@@ -5,9 +5,9 @@
 Email Me 👉 ✉️ **aryanpuri0711@gmail.com** For Collaboration/Project or Anything Else (including cat talks 😼) 
 
 - 🔭 **I’m currently working on:** Neural Embedding Clusters: A Hybrid Model for Emotion-Based Sentence Classification
-- 👯 **I’m looking to collaborate on:**🔥 
+- 👯 I’m looking to collaborate on:🔥 
 AI & ML Projects
-🚀 New Model and Piplines
+🚀 New Model and Pipelines
 📈 Smart systems in HealthTech, FinTech, EdTech
 - 💬 **Ask me about:** Why the best ideas come at 2AM, and yes I take DMs then
 - 📫 **How to reach me:** **[LinkedIn]**(https://www.linkedin.com/in/aryan-puri01/) 
